@@ -7,7 +7,7 @@ pip install -U Cython cmake numpy
 pip install -U insightface
 pip install onnxruntime onnxruntime-gpu 
 ```
-
+## 
 ## FaceRecognition：
 
 |接口名称|参数|返回值类型|备注|
@@ -20,6 +20,10 @@ pip install onnxruntime onnxruntime-gpu
 
 ## Quick Example
 
+### Before start
+- Please install the model weights:  [click here](https://pan.baidu.com/s/1wuiwwqUlZwFpx6Yyq2UaJg) password: wcnw
+- Unzip the weights and place it at 'models/'
+- And then : 
 ```
 import os
 import time
