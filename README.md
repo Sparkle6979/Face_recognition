@@ -21,7 +21,7 @@ pip install onnxruntime onnxruntime-gpu
 ## Quick Example
 
 ### Before start
-- Please install the model weights:  [click here](https://pan.baidu.com/s/1wuiwwqUlZwFpx6Yyq2UaJg) password: wcnw
+- Please install the model weights:  [click here](https://pan.baidu.com/s/1wuiwwqUlZwFpx6Yyq2UaJg) , password: wcnw
 - Unzip the weights and place it at 'models/'
 - And then : 
 ```
